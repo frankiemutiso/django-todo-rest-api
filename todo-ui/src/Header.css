@@ -1,0 +1,10 @@
+.header {
+  text-align: center;
+  background-color: #fbf6f0;
+  color: #000;
+  padding: 15px;
+}
+
+.header > p {
+  font-size: 23px;
+}
